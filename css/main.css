@@ -2,6 +2,17 @@
 
 /*Schedule list*/
 
+body > div:nth-child(21) > div.container-fluid.outer-subpart-5 > div.container.subpart-5 > div > div > a:link,
+body > div:nth-child(21) > div.container-fluid.outer-subpart-5 > div.container.subpart-5 > div > div > a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+
+body > div:nth-child(9) > div > div.container.info-outer > center > div:nth-child(2) > p.info-text {
+    padding-left: 15px;
+}
+
 .custom-padding {
     padding-left: 15px;
     padding-right: 15px;
