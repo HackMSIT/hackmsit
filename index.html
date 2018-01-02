@@ -231,13 +231,13 @@
                             <span>9:00 AM : Registrations Starts</span>
                         </li>
                         <li>
-                            <span>9:30 : Team Formation / Hacking Starts</span>
+                            <span>9:30 AM : Team Formation / Hacking Starts</span>
                         </li>
                         <li>
                             <span>Discussion with mentors</span>
                         </li>
                         <li>
-                            <span>2:30 AM : Luncheon</span>
+                            <span>2:30 PM : Luncheon</span>
                         </li>
                         <li>
                             <span>Hack the whole day</span>
@@ -650,7 +650,7 @@
         <footer class="footer navbar-inverse">
             <div class="container footer-area">
                 <div class="row footer-text">
-                    <div class="col-md-6 col-xs-12 col-sm-12 text-center">
+                    <div id="credit" class="col-md-6 col-xs-12 col-sm-12 text-center">
                         Developed and designed with
                         <i class="fa fa-heart"></i>
                     </div>
@@ -721,6 +721,12 @@
                 })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
             ga('create', 'UA-75054794-2', 'auto');
             ga('send', 'pageview');
+        </script>
+
+        <script>
+            (Math.floor(Math.random() * 10) < 4) ?
+                document.querySelector('#credit').innerHTML = `Developed and designed by
+                <a href="http://arsh.xyz">Arsh</a>`: null;
         </script>
     </body>
 
