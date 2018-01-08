@@ -702,70 +702,7 @@ html {
         /*height: 100px;*/
         margin-bottom: 30px;
     }
-    .tst {
-        max-width: 68%;
-        height: auto;
-        padding-top: 5%;
-        margin-bottom: 0px;
-    }
-    .gdg {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
-    .insedge {
-        padding-top: 10%;
-        max-width: 61%;
-        height: auto;
-    }
-    .hrank {
-        max-width: 105%;
-        height: auto;
-        padding-top: 8%;
-        margin-bottom: 0px;
-    }
-    .github {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
-    .shephertz {
-        max-width:70%;
-        height: auto;
-        margin-bottom: 0px;
-        /*padding-top: 25%;*/
-    }
-    .
-    .coinsec {
-        max-width: 80%;
-        height: auto;
-    }
-    .lnb {
-        max-width: 80%;
-        height: auto;
-        margin-bottom: 0px;
-        /*padding-top: 15%;*/
-    }
-    .t69 {
-        max-width: 50%;
-        height: auto;
-        padding-top: 15%;
-    }
-    .liqserve {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
-    .jamb {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
-    .cloudb {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
+
     .days,
     .hours,
     .mins,
@@ -815,69 +752,7 @@ html {
         /*height: 100px;*/
         margin-bottom: 30px;
     }
-    .tst {
-        max-width: 68%;
-        height: auto;
-        padding-top: 5%;
-        margin-bottom: 0px;
-    }
-    .gdg {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
-    .insedge {
-        padding-top: 10%;
-        max-width: 61%;
-        height: auto;
-    }
-    .hrank {
-        max-width: 105%;
-        height: auto;
-        padding-top: 8%;
-        margin-bottom: 0px;
-    }
-    .github {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
-    .shephertz {
-        max-width: 70%;
-        height: auto;
-        margin-bottom: 0px;
-        /*padding-top: 25%;*/
-    }
-    .coinsec {
-        max-width: 80%;
-        height: auto;
-    }
-    .lnb {
-        max-width: 80%;
-        height: auto;
-        margin-bottom: 0px;
-        /*padding-top: 15%;*/
-    }
-    .t69 {
-        max-width: 50%;
-        height: auto;
-        padding-top: 15%;
-    }
-    .liqserve {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
-    .jamb {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
-    .cloudb {
-        max-width: 80%;
-        height: auto;
-        /*padding-top: 25%;*/
-    }
+
     .days,
     .hours,
     .mins,
@@ -893,4 +768,8 @@ html {
     .intro {
         font-size: 7px
     }
+}
+
+#sponsor img{
+    width: 80%;
 }
