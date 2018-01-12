@@ -2,7 +2,7 @@
 // author - Arsh
 // github - https://github.com/Arsh23/
 
-const endtime = 'January 10 2018 08:00:00 GMT+05:30';
+const endtime = 'January 10 2018 10:00:00 GMT+05:30';
 let id = 0;
 
 function getTimeRemaining(endtime) {
